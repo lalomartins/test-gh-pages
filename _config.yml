@@ -1,0 +1,8 @@
+permalink: /:title.html
+url: "http://arunoda.github.io/laika" 
+exclude:
+- README.md
+- Rakefile
+- post.sh
+
+
